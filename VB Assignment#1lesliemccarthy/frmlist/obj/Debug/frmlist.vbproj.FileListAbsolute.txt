@@ -1,0 +1,163 @@
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\bin\Debug\frmlist.exe.config
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\bin\Debug\frmlist.exe
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\bin\Debug\frmlist.pdb
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\bin\Debug\frmlist.xml
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\obj\Debug\frmlist.Form1.resources
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\obj\Debug\frmlist.frmlogin.resources
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\obj\Debug\frmlist.Resources.resources
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\obj\Debug\frmlist.vbproj.GenerateResource.Cache
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\obj\Debug\frmlist.exe
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\obj\Debug\frmlist.xml
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\obj\Debug\frmlist.pdb
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\obj\Debug\frmlist.Admin.resources
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\obj\Debug\frmlist.frmChangeUser.resources
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\obj\Debug\frmlist.frmRemoveShow.resources
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\obj\Debug\frmlist.tickets.resources
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\obj\Debug\frmlist.ticketsEvening.resources
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\obj\Debug\frmlist.paymentform.resources
+C:\Users\leslie\Desktop\luckneeded\frmlist\frmlist\obj\Debug\frmlist.printTickets.resources
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\bin\Debug\frmlist.exe.config
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.exe
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.xml
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.pdb
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\bin\Debug\frmlist.exe
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\bin\Debug\frmlist.pdb
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\bin\Debug\frmlist.xml
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.Admin.resources
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.Form1.resources
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.frmChangeUser.resources
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.frmlogin.resources
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.frmRemoveShow.resources
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.Resources.resources
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.paymentform.resources
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.printTickets.resources
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.tickets.resources
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.ticketsEvening.resources
+E:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.vbproj.GenerateResource.Cache
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\bin\Debug\frmlist.exe.config
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.exe
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.xml
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.pdb
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\bin\Debug\frmlist.exe
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\bin\Debug\frmlist.pdb
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\bin\Debug\frmlist.xml
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.Admin.resources
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.Form1.resources
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.frmChangeUser.resources
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.frmlogin.resources
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.frmRemoveShow.resources
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.Resources.resources
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.paymentform.resources
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.printTickets.resources
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.tickets.resources
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.ticketsEvening.resources
+F:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.vbproj.GenerateResource.Cache
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\bin\Debug\frmlist.exe.config
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.exe
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.xml
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.pdb
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\bin\Debug\frmlist.exe
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\bin\Debug\frmlist.pdb
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\bin\Debug\frmlist.xml
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.Admin.resources
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.Form1.resources
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.frmChangeUser.resources
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.frmlogin.resources
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.frmRemoveShow.resources
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.Resources.resources
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.paymentform.resources
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.printTickets.resources
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.tickets.resources
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.ticketsEvening.resources
+G:\VisualBasicAssignment2014\luckneeded\frmlist\frmlist\obj\Debug\frmlist.vbproj.GenerateResource.Cache
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\bin\Debug\frmlist.exe.config
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.exe
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.xml
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.pdb
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\bin\Debug\frmlist.exe
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\bin\Debug\frmlist.pdb
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\bin\Debug\frmlist.xml
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.Admin.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.Form1.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.frmChangeUser.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.frmlogin.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.frmRemoveShow.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.Resources.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.paymentform.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.printTickets.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.tickets.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.ticketsEvening.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.vbproj.GenerateResource.Cache
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\bin\Debug\frmlist.exe.config
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.exe
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.xml
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.pdb
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\bin\Debug\frmlist.exe
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\bin\Debug\frmlist.pdb
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\bin\Debug\frmlist.xml
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.Admin.resources
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.Form1.resources
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.frmChangeUser.resources
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.frmlogin.resources
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.frmRemoveShow.resources
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.Resources.resources
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.paymentform.resources
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.printTickets.resources
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.tickets.resources
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.ticketsEvening.resources
+K:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\frmlist\frmlist\obj\Debug\frmlist.vbproj.GenerateResource.Cache
+C:\Users\leslie\Desktop\frmlist\frmlist\bin\Debug\frmlist.exe.config
+C:\Users\leslie\Desktop\frmlist\frmlist\obj\Debug\frmlist.exe
+C:\Users\leslie\Desktop\frmlist\frmlist\obj\Debug\frmlist.xml
+C:\Users\leslie\Desktop\frmlist\frmlist\obj\Debug\frmlist.pdb
+C:\Users\leslie\Desktop\frmlist\frmlist\bin\Debug\frmlist.exe
+C:\Users\leslie\Desktop\frmlist\frmlist\bin\Debug\frmlist.pdb
+C:\Users\leslie\Desktop\frmlist\frmlist\bin\Debug\frmlist.xml
+C:\Users\leslie\Desktop\frmlist\frmlist\obj\Debug\frmlist.Admin.resources
+C:\Users\leslie\Desktop\frmlist\frmlist\obj\Debug\frmlist.Form1.resources
+C:\Users\leslie\Desktop\frmlist\frmlist\obj\Debug\frmlist.frmChangeUser.resources
+C:\Users\leslie\Desktop\frmlist\frmlist\obj\Debug\frmlist.frmlogin.resources
+C:\Users\leslie\Desktop\frmlist\frmlist\obj\Debug\frmlist.frmRemoveShow.resources
+C:\Users\leslie\Desktop\frmlist\frmlist\obj\Debug\frmlist.Resources.resources
+C:\Users\leslie\Desktop\frmlist\frmlist\obj\Debug\frmlist.paymentform.resources
+C:\Users\leslie\Desktop\frmlist\frmlist\obj\Debug\frmlist.printTickets.resources
+C:\Users\leslie\Desktop\frmlist\frmlist\obj\Debug\frmlist.tickets.resources
+C:\Users\leslie\Desktop\frmlist\frmlist\obj\Debug\frmlist.ticketsEvening.resources
+C:\Users\leslie\Desktop\frmlist\frmlist\obj\Debug\frmlist.vbproj.GenerateResource.Cache
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\bin\Debug\frmlist.exe.config
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.exe
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.xml
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.pdb
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\bin\Debug\frmlist.exe
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\bin\Debug\frmlist.pdb
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\bin\Debug\frmlist.xml
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.Admin.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.Form1.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.frmChangeUser.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.frmlogin.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.frmRemoveShow.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.Resources.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.paymentform.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.printTickets.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.tickets.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.ticketsEvening.resources
+G:\VisualBasicAssignment2014\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.vbproj.GenerateResource.Cache
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\bin\Debug\frmlist.exe.config
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.exe
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.xml
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.pdb
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\bin\Debug\frmlist.exe
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\bin\Debug\frmlist.pdb
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\bin\Debug\frmlist.xml
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.vbprojResolveAssemblyReference.cache
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.Admin.resources
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.Form1.resources
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.frmChangeUser.resources
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.frmlogin.resources
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.frmRemoveShow.resources
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.Resources.resources
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.paymentform.resources
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.printTickets.resources
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.tickets.resources
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.ticketsEvening.resources
+C:\Users\leslie\Documents\lesliemccarthyVB.net2015\VB Assignment#1lesliemccarthy\frmlist\obj\Debug\frmlist.vbproj.GenerateResource.Cache
